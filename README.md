@@ -17,4 +17,4 @@ This Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of 
 <br />
 
 
-![Django Black Design - Template project provided by AppSeed.](https://github.com/nimadorostkar/django_dashboard/ScreenShot.png)
+![Atro Design - Template project provided by Atrotech.](https://github.com/nimadorostkar/django_dashboard/blob/master/ScreenShot.png)
