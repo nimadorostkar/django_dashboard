@@ -12,7 +12,6 @@ This Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of 
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
 - Support via **Github** [Atrotech](https://github.com/atrotech).
 
 <br />
