@@ -27,10 +27,3 @@ This Dashboard is a beautiful Bootstrap 4 Admin Dashboard with a huge number of 
 <br />
 
 ![Django Black Design - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-black/master/media/django-dashboard-black-screen.png)
-
-
-
-
-<br />
----
-[Django Dashboard](https://appseed.us/admin-dashboards/django?ref=gh) Black Design - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
